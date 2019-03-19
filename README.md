@@ -1,5 +1,5 @@
 # Water-Pipe-Leakage-Detection
-An Iot project which helps in determining the amount of water lost via a leakage in a pipe using ESP8266.
+An IoT project which helps in determining the amount of water lost due to a leakage and the location of that leakage in a pipe using ESP8266 module and water flow sensors.
 There are times when a pipe breaks and lakhs of litres are wasted then and there. 
 It becomes difficult to detect leakages beforehand and try to take a proper action accordingly. 
 Even in homes, the leakage occurs at one point in the water system, but the actual issue is because of another point in the system.  
