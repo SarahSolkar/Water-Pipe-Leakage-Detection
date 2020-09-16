@@ -13,7 +13,7 @@ def sendAlert(msg,url):
 	server=smtplib.SMTP("smtp.gmail.com:587")
 	server.ehlo()
 	server.starttls()
-	server.login("testiotsap@gmail.com","dynamo2018")
+	server.login(<email>,<pwd>)
 	server.sendmail("ankitvi.2818.av@gmail.com","priteshsatpute1998@gmail.com",message)
 	server.quit()
 
